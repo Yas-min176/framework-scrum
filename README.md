@@ -1,10 +1,10 @@
 # 🚀 Desafio de Projeto: Completando o Framework Scrum
 
-Este repositório contém o desafio de projeto **"Completando o Framework Scrum"**, parte da formação de Scrum fornecida pela DIO. O objetivo deste desafio é preencher os esquemas e aplicar os conceitos aprendidos ao longo da formação. O projeto utiliza o Scrum como metodologia ágil para organizar e estruturar o trabalho de maneira eficiente.
+Este repositório contém o desafio de projeto **"Completando o Framework Scrum"**, parte da formação de Scrum fornecida pela DIO. O objetivo deste desafio é preencher os esquemas e aplicar os conceitos aprendidos ao longo da formação.
 
 ## 📑 Objetivo
 
-O objetivo deste desafio é aplicar na prática os princípios e artefatos do Scrum, incluindo:
+O objetivo deste desafio é aplicar na validar o conhecimento dos princípios e artefatos do Scrum, incluindo:
 
 - **Papéis**: Scrum Master, Product Owner, Time de Desenvolvimento
 - **Eventos**: Sprint, Daily Scrum, Sprint Review, Sprint Retrospective
