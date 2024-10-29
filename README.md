@@ -15,9 +15,3 @@ O objetivo deste desafio é aplicar na prática os princípios e artefatos do Sc
 O board do Miro utilizado para a construção do framework Scrum está disponível no link abaixo:
 
 👉 [Acessar o board do Miro](https://miro.com/app/board/uXjVLM_aNSQ=/?share_link_id=817136262712)
-
-## 🛠️ Como utilizar
-
-1. **Clone este repositório**: 
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
